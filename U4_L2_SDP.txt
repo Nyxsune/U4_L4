@@ -1,1 +1,0 @@
-The property that makes stacks the ideal data type for this is the fact you can easily remove things from the end/top, which makes revering it super easy

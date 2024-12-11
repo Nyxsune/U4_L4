@@ -1,0 +1,3 @@
+For me, I plan to push everything in the test into the stack and count the number of each bracket types at the same time, and if there is an odd number of any of the brackets then I won't go onto testing the second reason.
+for how I pan on doing mine, I would pop when going through the stack to see if there is an even or odd amount of other brackets between
+One reason it would be unbalanced is if there is an odd number of any of the bracket varieties. Another reason would be if a bracket's other half is outside another variety of brackets.
